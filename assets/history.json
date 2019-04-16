@@ -1,0 +1,19 @@
+[
+  {"name": "First man in space", "year": 1961},
+  {"name": "John F. Kennedy is assassinated", "year": 1963},
+  {"name": "Apollo 11 lands on the moon", "year": 1969},
+  {"name": "Google was found", "year": 1998},
+  {"name": "World War II ends", "year": 1945},
+  {"name": "Hitler becomes chancellor of Germany", "year": 1933},
+  {"name": "First television station license", "year": 1928},
+  {"name": "Einstein publishes Special Theory of Relativity", "year": 1905},
+  {"name": "The US enters World War I", "year": 1917},
+  {"name": "Austria joins the European Union", "year": 1955},
+  {"name": "President Johnson signs the Voting Rights Act", "year": 1965},
+  {"name": "Dissolution of the Soviet Union", "year": 1991},
+  {"name": "Launch of the Hubble Space Telescope", "year": 1990},
+  {"name": "Chemical structure of DNA solved", "year": 1953},
+  {"name": "Thomas Anderl was born", "year": 1993},
+  {"name": "World population reaches 3 billion", "year": 1959},
+  {"name": "Republic of China is established", "year": 1912}
+]
